@@ -1,0 +1,15 @@
+"D:\develop_softwave\IAR8_for_arm\arm\bin\armproc.dll" 
+
+"D:\develop_softwave\IAR8_for_arm\arm\bin\armjlink2.dll" 
+
+"F:\program_space\STM32_application\Solar_energy\Solar_energy_testv1.0\EWARM\Solar_energy_testv1.0\Exe\Solar_energy_testv1.0.out" 
+
+--plugin "D:\develop_softwave\IAR8_for_arm\arm\bin\armbat.dll" 
+
+--device_macro "D:\develop_softwave\IAR8_for_arm\arm\config\debugger\ST\STM32F1xx_XL.dmac" 
+
+--flash_loader "D:\develop_softwave\IAR8_for_arm\arm\config\flashloader\ST\FlashSTM32F10xxE.board" 
+
+
+
+
